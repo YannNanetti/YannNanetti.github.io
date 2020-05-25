@@ -18,11 +18,14 @@ body {
 .paragraphe {
 
  color: #3f3e3e;
+ font-family: "Montserrat", sans-serif;
+
 }
 
 p {
 
     color: #585c68;
+    font-family: "Montserrat", sans-serif;
 }
 
 .bold {
@@ -56,6 +59,7 @@ p {
 .resume .resume_left .resume_profile img {
   width: 100%;
   height: 100%;
+  object-fit:cover;
 }
 
 .resume .resume_left .resume_content {
